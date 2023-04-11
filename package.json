@@ -1,0 +1,15 @@
+{
+  "name": "oscarrios817-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oscar",
+  "license": "ISC",
+  "bin": {
+    "resume-me": "./index.js"
+  }
+
+}
